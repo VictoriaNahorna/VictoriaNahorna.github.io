@@ -1,7 +1,7 @@
 [![coverage][cover]][cover-url]
 [![deps][deps]][deps-url]
 [![test][test]][test-url]
-[![chat][chat]][chat-url]
+
 
 # Front Page
 
